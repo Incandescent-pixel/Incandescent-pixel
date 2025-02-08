@@ -37,7 +37,7 @@ I've known about GitHub for some time and am glad to finally bite the bullet and
 5. #### **Resolve merge conflicts** (Completed: February 8, 2025)
    - Learn why conflicts happen and how to resolve them.
   
-6. #### **Release-based workflow**
+6. #### **Release-based workflow** (Completed: February 8, 2025)
    - Practice a release-based workflow and explore branching strategies.
      
 ---
