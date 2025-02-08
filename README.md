@@ -29,26 +29,26 @@ I've known about GitHub for some time and am glad to finally bite the bullet and
 3. **GitHub Pages** (Completed: February 8, 2025)
    - Create a site or blog from your GitHub repositories with GitHub Pages.
 
+4. **Review pull requests** (Completed: February 8, 2025)
+   - Collaborate and work together on GitHub.
+
 ---
 
 ## Courses to be completed:
 
-1. **Review pull requests**
-   - Collaborate and work together on GitHub.
-
-2. **Resolve merge conflicts**
+1. **Resolve merge conflicts**
    - Learn why conflicts happen and how to resolve them.
 
-3. **Release-based workflow**
+2. **Release-based workflow**
    - Practice a release-based workflow and explore branching strategies.
 
-4. **Connect the dots**
+3. **Connect the dots**
    - Find relevant conversations, commits, and projects in a repository.
 
-5. **Code with Codespaces**
+4. **Code with Codespaces**
    - Develop code using GitHub Codespaces and Visual Studio Code.
 
-6. **Code with Copilot**
+5. **Code with Copilot**
    - Develop with AI-powered code suggestions using GitHub Copilot, Codespaces, and VS Code.
 
 ---
