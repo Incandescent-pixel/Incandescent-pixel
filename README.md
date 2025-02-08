@@ -18,6 +18,7 @@ I've known about GitHub for some time and am glad to finally bite the bullet and
 🌱 I’m currently learning how GitHub works through use of GitHub skills courses. I'll aim to complete one course per day.
 
 ---
+---
 
 ### **Courses completed so far:**
 
@@ -33,9 +34,10 @@ I've known about GitHub for some time and am glad to finally bite the bullet and
 4. #### **Review pull requests** (Completed: February 8, 2025)
    - Collaborate and work together on GitHub.
 
-5. #### **Resolve merge conflicts**
+5. #### **Resolve merge conflicts** (Completed: February 8, 2025)
    - Learn why conflicts happen and how to resolve them.
      
+---
 ---
 
 ### Courses to be completed:
@@ -52,6 +54,7 @@ I've known about GitHub for some time and am glad to finally bite the bullet and
 4. #### **Code with Copilot**
    - Develop with AI-powered code suggestions using GitHub Copilot, Codespaces, and VS Code.
 
+---
 ---
 
 ### Automate workflows with GitHub Actions
@@ -75,6 +78,7 @@ I've known about GitHub for some time and am glad to finally bite the bullet and
    - Make a workflow reusable in other workflows.
 
 ---
+---
 
 ### Code security and analysis
 
@@ -93,4 +97,5 @@ I've known about GitHub for some time and am glad to finally bite the bullet and
 5. #### **Introduction to secret scanning**
    - Enable secret scanning and take a feature tour.
 
+---
 ---
