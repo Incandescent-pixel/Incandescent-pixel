@@ -3,8 +3,8 @@
 
 
 ### My username:
-- Incandescent: Cambridge Dictionary Word of the Day, 7th Feb 25.
-- Pixel: An addition suggested by GitHub.  
+- **Incandescent:** Cambridge Dictionary Word of the Day, 7th Feb 25.
+- **Pixel:** An addition suggested by GitHub.  
 Am I an incandescent pixel? I'd like to think I have the potential to be, we'll see.
 
 
