@@ -20,7 +20,7 @@ I've known about GitHub for some time and am glad to finally bite the bullet and
 ---
 ---
 
-### **Courses completed so far:**
+### **Courses completed:**
 
 1. #### **Introduction to GitHub** (Completed: February 7, 2025)
    - Get started using GitHub in less than an hour.
@@ -36,22 +36,22 @@ I've known about GitHub for some time and am glad to finally bite the bullet and
 
 5. #### **Resolve merge conflicts** (Completed: February 8, 2025)
    - Learn why conflicts happen and how to resolve them.
+  
+6. #### **Release-based workflow**
+   - Practice a release-based workflow and explore branching strategies.
      
 ---
 ---
 
 ### Courses to be completed:
 
-1. #### **Release-based workflow**
-   - Practice a release-based workflow and explore branching strategies.
-
-2. #### **Connect the dots**
+1. #### **Connect the dots**
    - Find relevant conversations, commits, and projects in a repository.
 
-3. #### **Code with Codespaces**
+2. #### **Code with Codespaces**
    - Develop code using GitHub Codespaces and Visual Studio Code.
 
-4. #### **Code with Copilot**
+3. #### **Code with Copilot**
    - Develop with AI-powered code suggestions using GitHub Copilot, Codespaces, and VS Code.
 
 ---
