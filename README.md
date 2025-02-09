@@ -42,16 +42,16 @@ I've known about GitHub for some time and am glad to finally bite the bullet and
   
 7. #### **Connect the dots** (Completed: February 9, 2025)
    - Find relevant conversations, commits, and projects in a repository.
-     
+
+8. #### **Code with Codespaces** (Completed: February 9, 2025)
+   - Develop code using GitHub Codespaces and Visual Studio Code.
+
 ---
 ---
 
 ### Courses to be completed:
 
-1. #### **Code with Codespaces**
-   - Develop code using GitHub Codespaces and Visual Studio Code.
-
-2. #### **Code with Copilot**
+1. #### **Code with Copilot**
    - Develop with AI-powered code suggestions using GitHub Copilot, Codespaces, and VS Code.
 
 ---
