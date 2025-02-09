@@ -27,7 +27,7 @@ Hello! I'm a passionate learner exploring the world of GitHub. My journey began 
 | ![Release Workflow](https://img.shields.io/badge/Release%20Workflow-Practice-lightgrey)           | Practice a release-based workflow and explore branching strategies.| February 8, 2025           |
 | ![Connect the Dots](https://img.shields.io/badge/Connect%20the%20Dots-Find%20Relevant-blueviolet)        | Find relevant conversations, commits, and projects in a repository.| February 9, 2025           |
 | ![Codespaces](https://img.shields.io/badge/Code%20with%20Codespaces-Develop-orange)                | Develop code using GitHub Codespaces and Visual Studio Code.       | February 9, 2025           |
-| ![Code with Copilot](https://img.shields.io/badge/AI-green) | Develop with AI-powered code suggestions using GitHub Copilot, Codespaces, and VS Code. | February 9, 2025 |
+| ![Code with Copilot](https://img.shields.io/badge/Code%20with%20Copilot-Develop%20with%20AI--powered%20code%20suggestions-green) | Develop with AI-powered code suggestions using GitHub Copilot, Codespaces, and VS Code. | February 9, 2025 |
 
 ---
 
