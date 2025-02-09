@@ -39,19 +39,19 @@ I've known about GitHub for some time and am glad to finally bite the bullet and
   
 6. #### **Release-based workflow** (Completed: February 8, 2025)
    - Practice a release-based workflow and explore branching strategies.
+  
+7. #### **Connect the dots** (Completed: February 9, 2025)
+   - Find relevant conversations, commits, and projects in a repository.
      
 ---
 ---
 
 ### Courses to be completed:
 
-1. #### **Connect the dots**
-   - Find relevant conversations, commits, and projects in a repository.
-
-2. #### **Code with Codespaces**
+1. #### **Code with Codespaces**
    - Develop code using GitHub Codespaces and Visual Studio Code.
 
-3. #### **Code with Copilot**
+2. #### **Code with Copilot**
    - Develop with AI-powered code suggestions using GitHub Copilot, Codespaces, and VS Code.
 
 ---
