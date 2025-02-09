@@ -8,7 +8,7 @@
 ---
 
 ## About Me
-Hello! I'm a passionate learner exploring the world of GitHub. My journey began with HTML and JSON, and I'm excited to see where it takes me. When I'm not coding, you might find me exploring new technologies, reading, or enjoying a good book. Let's connect and learn together!
+Hello! I'm a passionate learner exploring the world of GitHub. My journey began with HTML and JSON, and I'm excited to see where it takes me. Let's connect and learn together!
 
 ---
 
