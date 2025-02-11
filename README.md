@@ -27,10 +27,10 @@ Hello! I'm a passionate learner exploring the world of GitHub. My journey began 
 | ![Release Workflow](https://img.shields.io/badge/Release%20Workflow-Practice-lightgrey)           | Practice a release-based workflow and explore branching strategies.| February 8, 2025           |
 | ![Connect the Dots](https://img.shields.io/badge/Connect%20the%20Dots-Find%20Relevant-blueviolet)        | Find relevant conversations, commits, and projects in a repository.| February 9, 2025           |
 | ![Codespaces](https://img.shields.io/badge/Code%20with%20Codespaces-Develop-orange)                | Develop code using GitHub Codespaces and Visual Studio Code.       | February 9, 2025           |
-| ![Code with Copilot](https://img.shields.io/badge/Code%20with%20Copilot-Develop%20with%20AI--powered%20code%20suggestions-green) | Develop with AI-powered code suggestions using GitHub Copilot, Codespaces, and VS Code. | February 9, 2025 |
-| ![Hello GitHub Actions](https://img.shields.io/badge/Hello%20GitHub%20Actions-Create%20and%20Use-red) | Create a GitHub Action and use it in a workflow.                   | February 10, 2025          |
-| ![Test with Actions](https://img.shields.io/badge/Test%20with%20Actions-Create%20workflows%20for%20CI-blue) | Create workflows that enable you to use Continuous Integration (CI) for your projects. | February 11, 2025 |
-
+| ![Code with Copilot](https://img.shields.io/badge/Code%20with%20Copilot-Copilot%20Suggestions-green) | Develop with AI-powered code suggestions using GitHub Copilot, Codespaces, and VS Code. | February 9, 2025 |
+| ![Hello GitHub Actions](https://img.shields.io/badge/Hello%20GitHub%20Actions-GitHub%20Actions-red) | Create a GitHub Action and use it in a workflow.                   | February 10, 2025          |
+| ![Test with Actions](https://img.shields.io/badge/Test%20with%20Actions-CI%20Workflows-blue) | Create workflows that enable you to use Continuous Integration (CI) for your projects. | February 11, 2025 |
+| ![Write JavaScript Actions](https://img.shields.io/badge/Write%20JavaScript%20Actions-JS%20Actions-yellow) | Write your own GitHub JavaScript Action. | February 11, 2025 |
 ---
 
 ### Courses to Be Completed:
@@ -42,7 +42,6 @@ Hello! I'm a passionate learner exploring the world of GitHub. My journey began 
 |---------------------------|--------------------------------------------------------------------|
 | **Publish Packages**      | Use GitHub Actions to publish your project to a Docker image.      |
 | **Deploy to Azure**       | Create a deployment workflow using GitHub Actions and Microsoft Azure. |
-| **Write JavaScript Actions**| Write your own GitHub JavaScript Action.                         |
 | **Reusable Workflows**    | Make a workflow reusable in other workflows.                       |
 
 ---
