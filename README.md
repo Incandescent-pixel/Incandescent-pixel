@@ -50,7 +50,6 @@ Hello! I'm a passionate learner exploring the world of GitHub. My journey began 
 ### Code Security and Analysis:
 | **Course**                | **Description**                                                    |
 |---------------------------|--------------------------------------------------------------------|
-| **Secure Your Repository Supply Chain** | Secure your supply chain, patch dependency vulnerabilities. |
 | **Secure Code Game**      | Learn about software security in a fun, educational environment.   |
 | **Introduction to CodeQL**| Learn how to enable CodeQL to secure your code.                    |
 | **Change Commit History** | A skills course on changing the commit history with Git.           |
