@@ -32,6 +32,7 @@ Hello! I'm a passionate learner exploring the world of GitHub. My journey began 
 | ![Test with Actions](https://img.shields.io/badge/Test%20with%20Actions-CI%20Workflows-blue) | Create workflows that enable you to use Continuous Integration (CI) for your projects. | February 11, 2025 |
 | ![Write JavaScript Actions](https://img.shields.io/badge/Write%20JavaScript%20Actions-JS%20Actions-yellow) | Write your own GitHub JavaScript Action. | February 11, 2025 |
 | ![Reusable Workflows](https://img.shields.io/badge/Reusable%20Workflows-Reuse%20Workflows-orange) | Make a workflow reusable in other workflows. | February 12, 2025 |
+| ![Secure Your Repository Supply Chain](https://img.shields.io/badge/Secure%20Your%20Repository%20Supply%20Chain-Security-blue) | Secure your supply chain, patch dependency vulnerabilities. | February 13, 2025 
 ---
 
 ### Courses to Be Completed:
