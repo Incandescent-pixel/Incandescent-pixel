@@ -33,6 +33,7 @@ Hello! I'm a passionate learner exploring the world of GitHub. My journey began 
 | ![Write JavaScript Actions](https://img.shields.io/badge/Write%20JavaScript%20Actions-JS%20Actions-yellow) | Write your own GitHub JavaScript Action. | February 11, 2025 |
 | ![Reusable Workflows](https://img.shields.io/badge/Reusable%20Workflows-Reuse%20Workflows-orange) | Make a workflow reusable in other workflows. | February 12, 2025 |
 | ![Secure Your Repository Supply Chain](https://img.shields.io/badge/Secure%20Your%20Repository%20Supply%20Chain-Security-blue) | Secure your supply chain, patch dependency vulnerabilities. | February 13, 2025 
+| ![Introduction to CodeQL](https://img.shields.io/badge/Introduction%20to%20CodeQL-Secure%20Code-green) | Learn how to enable CodeQL to secure your code. | February 14, 2025 |
 ---
 
 ### Courses to Be Completed:
@@ -51,7 +52,6 @@ Hello! I'm a passionate learner exploring the world of GitHub. My journey began 
 | **Course**                | **Description**                                                    |
 |---------------------------|--------------------------------------------------------------------|
 | **Secure Code Game**      | Learn about software security in a fun, educational environment.   |
-| **Introduction to CodeQL**| Learn how to enable CodeQL to secure your code.                    |
 | **Change Commit History** | A skills course on changing the commit history with Git.           |
 | **Introduction to Secret Scanning** | Enable secret scanning and take a feature tour.           |
 
