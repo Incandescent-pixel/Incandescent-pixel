@@ -36,7 +36,7 @@ Hello! I'm a passionate learner exploring the world of GitHub. My journey began 
 | ![Introduction to CodeQL](https://img.shields.io/badge/Introduction%20to%20CodeQL-Secure%20Code-green) | Learn how to enable CodeQL to secure your code. | February 14, 2025 |
 | ![Introduction to Secret Scanning](https://img.shields.io/badge/Introduction%20to%20Secret%20Scanning-Secret%20Scanning-yellow) | Enable secret scanning and take a feature tour. | February 15, 2025 |
 | ![Change Commit History](https://img.shields.io/badge/Change%20Commit%20History-Amend%20History-purple) | A skills course on changing the commit history with Git. | February 16, 2025 | 
-| ![Publish Packages](https://img.shields.io/badge/Publish%20Packages-Docker%20Image-blue) | Use GitHub Actions to publish your project to a Docker image. |
+| ![Publish Packages](https://img.shields.io/badge/Publish%20Packages-Docker%20Image-blue) | Use GitHub Actions to publish your project to a Docker image. | February 16, 2025 | 
 
 ---
 
