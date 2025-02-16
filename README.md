@@ -35,6 +35,7 @@ Hello! I'm a passionate learner exploring the world of GitHub. My journey began 
 | ![Secure Your Repository Supply Chain](https://img.shields.io/badge/Secure%20Your%20Repository%20Supply%20Chain-Security-blue) | Secure your supply chain, patch dependency vulnerabilities. | February 13, 2025 
 | ![Introduction to CodeQL](https://img.shields.io/badge/Introduction%20to%20CodeQL-Secure%20Code-green) | Learn how to enable CodeQL to secure your code. | February 14, 2025 |
 | ![Introduction to Secret Scanning](https://img.shields.io/badge/Introduction%20to%20Secret%20Scanning-Secret%20Scanning-yellow) | Enable secret scanning and take a feature tour. | February 15, 2025 |
+| ![Change Commit History](https://img.shields.io/badge/Change%20Commit%20History-Amend%20History-purple) | A skills course on changing the commit history with Git. | February 16, 2025 | 
 ---
 
 ### Courses to Be Completed:
@@ -53,7 +54,6 @@ Hello! I'm a passionate learner exploring the world of GitHub. My journey began 
 | **Course**                | **Description**                                                    |
 |---------------------------|--------------------------------------------------------------------|
 | **Secure Code Game**      | Learn about software security in a fun, educational environment.   |
-| **Change Commit History** | A skills course on changing the commit history with Git.           |
 
 ---
 
